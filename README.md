@@ -209,12 +209,18 @@ conversa sobre arquitetura ou um tour pela aplicação), é só entrar em contat
 <table>
   <tr>
     <td>
-      Sou <b>Vitória Cardozo</b>, desenvolvedora focada em <b>tecnologia para a saúde</b>. O Evoluta
-      é o meu projeto principal: desenhei e construí do zero, da regra clínica de cada formulário ao
-      banco de dados, à autenticação e ao deploy, com mais de 480 commits desde agosto de 2026.
+      Sou <b>Vitória Cardozo</b>, desenvolvedora focada em <b>tecnologia para a saúde</b>. Antes do
+      código, trabalhei por <b>7 anos como técnica de enfermagem</b>, na linha de frente da saúde, e em
+      2023 me formei em Análise e Desenvolvimento de Sistemas.
+      <br><br>
+      O Evoluta junta as duas coisas. É o meu projeto principal: desenhei e construí do zero, da regra
+      clínica de cada formulário ao banco de dados, à autenticação e ao deploy, com mais de 480
+      commits desde agosto de 2026.
       <br><br>
       Procuro oportunidades em healthtechs, hospitais e empresas de software para a saúde.
       <br><br>
+      <a href="https://vitoria-cardozo.vercel.app">Portfólio</a>
+      &nbsp;·&nbsp;
       <a href="https://github.com/vitoriacardozo20">GitHub</a>
       &nbsp;·&nbsp;
       <a href="https://evoluta-saude.vercel.app/contato">Contato pelo Evoluta</a>
